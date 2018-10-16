@@ -2,8 +2,15 @@
 ## 👨‍💻 👩‍💻 Top technical interview questions mock interview for (junior) developers
 
 # 🏁 General
+
 * What do you like about programming? (Passion indicator)
+* What is the difference between function declaration and function definition ?
 * Could you explain the concept of microservices?
+* What's the asynchronous programming
+* Difference between object/imperative/functional programming?
+* Difference between unit test / integration test / non-regression test?
+* What's the SEMVER
+* What's a hash?
 * How do you go about learning something new?
 * How do you stay up to date with technology and programming? (Interviewer wants to be comfortable that your skillset will continue to stay current in regards to the role. Do answer honestly including sources like blogs, forums, books or courses.)
 * How do you feel about testing?
@@ -16,10 +23,16 @@
 * What are two programming languages you know well? How are they similar? How are they different? What are some examples of times you would use each of them over the other? (Interviewer wants to know if you understand programming languages at a deep level, and if you are thoughtful about your choice of tools)
 * (Roleplay) You've come across an error that doesn't have an obvious solution while writing a program, explain what steps you would take in trying to resolve it. (Interviewer wants to get an understanding of your problem solving approach, try to give more details than "google it" or "ask for help")
 * Describe the agile approach to software development.
-* What is the difference between function declaration and function definition ?
 
-# 🎨 Front-end
+# 🎨 Front-end / Web / HTTP
 
+* You can quote us 3 HTTP verbs?
+* What are the cache levels in the WEB?
+* What are websocket?
+* What is ajax?
+* Difference servside/clientside rendering?
+* What are the advantages/inconvenient of each of the methods?
+* What is CORS (Cross-Origin Resource Sharing) and what is responsible for?
 * [What is CSS specificity?](cssSpecificity.md)
 * Are you familiar with CSS modules?
 * What is your favorite React.js feature and why?
@@ -38,11 +51,27 @@
 * What is the purpose of using a templating language like HAML?
 * What is closure in JavaScript and what is its use ?
 
+# ⚛️  React / JS
+
+* What's a callback?
+* What's a promise?
+* Can you tell us about the evolution of the recent JS
+* What is the difference between a document store and a relational database?
+
+# 🀄️ Unix System
+
+* What is a load balancer
+* What is round robin
+* What different shell could you name
+* What is the difference between a document store and a relational database?
+
 # 🔩 Back-end
 
+* If you have a greedy calculation, how do you make sure it doesn't block the process
+* What's the event loop?
+* Do you know Gulp or webpack?
 * What is the difference between a document store and a relational database?
 * What is the MVC (Model-View-Controller) architectural pattern?
-* What is CORS (Cross-Origin Resource Sharing) and what is responsible for?
 * What is a 500 HTTP error and what does it mean?
 * What is the difference between `PUT` and `POST` on a REST interface?
 * What is the fastest way to iterate?
