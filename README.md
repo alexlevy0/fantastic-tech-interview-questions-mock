@@ -57,6 +57,12 @@
 * What's a promise?
 * Can you tell us about the evolution of the recent JS
 * What is the difference between a document store and a relational database?
+* What is the significance of, and reason for, wrapping the entire content of a JavaScript source file in a function block? `(function($) { /* code */ } )(jQuery);
+`
+* What is a “closure” in JavaScript?
+* What is functional programming? : Pure functions / Avoid side-effects/function composition/FP:first-class functions/ higher order functions/functions as arguments/values.
+* What is the difference between classical inheritance and prototypal inheritance?
+* What are two-way data binding and one-way data flow, and how are they different?
 
 # 🀄️ Unix System
 
@@ -64,6 +70,7 @@
 * What is round robin
 * What different shell could you name
 * What is the difference between a document store and a relational database?
+* What are the pros and cons of monolithic vs microservice architectures?
 
 # 🔩 Back-end
 
